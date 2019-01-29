@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1548354045 source:c:\users\buddh\documents\my projects\bmi scale meter\main.c
+	<stdio.h>
+	<stdlib.h>
+
